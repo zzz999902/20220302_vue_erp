@@ -1,4 +1,3 @@
-# antd-demo vue2.0+antd 1版本开发的后台管理系统
 
 ## Project setup
 ```
